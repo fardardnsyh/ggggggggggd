@@ -1,0 +1,187 @@
+{
+  "basics": {
+    "name": "Hector Prieto Moreno",
+    "label": "Full-Stack developer with more than 7 years of experience & technical lead",
+    "image": "/cv-photo.webp",
+    "email": "hector.prieto.moreno@gmail.com",
+    "phone": "+34 645 64 09 31",
+    "summary": "With over 7 years as a Front End Engineer and Tech Lead, I specialize in JavaScript, TypeScript, and React. Experienced in leading teams across Europe and the US, I stay updated with the latest frameworks and libraries, ensuring cutting-edge solutions and seamless user experiences.",
+    "location": {
+      "address": "",
+      "postalCode": "28600",
+      "city": "Navalcarnero, Madrid",
+      "countryCode": "ES",
+      "region": "Spain"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Hector Prieto Moreno",
+        "url": "https://www.linkedin.com/in/hector-prieto-moreno-886917114/"
+      },
+      {
+        "network": "GitHub",
+        "username": "HectorPrietoMoreno",
+        "url": "https://github.com/HectorPrietoMoreno"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Roc360",
+      "position": "Full Stack Engineer & Tech Lead",
+      "url": "https://roc360.com/",
+      "startDate": "2022-01-01",
+      "endDate": null,
+      "summary": "As a Senior Full-stack Engineer, I took charge of feature development from conceptualization to Production Support. My role as Tech Lead involved spearheading epics and new feature initiatives, while also designing and integrating APIs for seamless system communication."
+    },
+    {
+      "name": "Macy's",
+      "position": "Senior UI Engineer & Tech Lead",
+      "url": "https://www.macys.com/",
+      "startDate": "2021-01-01",
+      "endDate": "2021-01-01",
+      "summary": "Led development efforts for Bloomingdale's Outlet project as the primary developer. Additionally, served as the Lead and Senior UI Developer for the Macy's project, utilizing Vue3, jest, storybooks, SaSS, Axios, Vuex, and Vue router. Collaborated closely with Backend and UX Design teams, contributing to API design and integration."
+    },
+    {
+      "name": "Cognizant - Wal-mart",
+      "position": "Senior UI Engineer & Tech Lead",
+      "url": "https://www.walmart.com/",
+      "startDate": "2020-01-01",
+      "endDate": "2021-01-01",
+      "summary": "Seasoned developer for a web application, proficient in React, Redux, TypeScript, JavaScript, NodeJS, Axios, React Hooks, StoryBooks, React Testing, Enzyme, Functional Components, and Material UI. As a Tech Lead, led a dependent project from conception to production release, overseeing all aspects of development, testing, and integration. Collaborated closely with Backend and UX Design teams for API design and integration. Skilled in NodeJS server management and experienced in designing and developing architecture and cross-application components such as SSO, Role Management, and Feature Toggle."
+    },
+    {
+      "name": "Cognizant - Verizon",
+      "position": "Principal UI Engineer",
+      "url": "https://www.verizon.com/",
+      "startDate": "2020-01-01",
+      "endDate": "2020-01-01",
+      "summary": "Experienced Senior Developer adept in transitioning Angular to React applications. Proficient in analysis, development, testing, integration, and support. Skilled in Angular, React, Redux, and Microservices, with experience in AEM (Adobe Experience Manager)."
+    },
+    {
+      "name": "Accenture",
+      "position": "Main Lecturer in BBVA Front Architecture",
+      "url": "https://www.accenture.com/es-es",
+      "startDate": "2019-01-01",
+      "endDate": "2019-01-01",
+      "summary": "Led a comprehensive 4-day course on BBVA Front End architecture, educating two groups of fifteen front end experts. Designed lecture topics covering ES6, WebComponents, Polymer, and Cells. Developed all necessary documentation and practical exercises to enhance learning outcomes."
+    },
+    {
+      "name": "Grupo Digital - BBVA",
+      "position": "Senior Front End Developer",
+      "url": "https://www.bbva.es/",
+      "startDate": "2018-01-01",
+      "endDate": "2019-01-01",
+      "summary": "Contributed to the development, testing, and deployment of non-client onboarding solutions for enterprises in Spain, Mexico, and Peru within the Global BBVA Web Components-based architecture. Established and led a Front End developer community focused on sharing Web Components, best practices, and experiences to enhance code quality."
+    },
+    {
+      "name": "Babel - ING Bank",
+      "position": "Junior Full Stack Developer",
+      "url": "https://www.ing.es/",
+      "startDate": "2017-01-01",
+      "endDate": "2018-01-01",
+      "summary": "Played a key role in the development of an ING Bank project for the Czech Republic, utilizing Backbone.js with Marionette. Contributed to all phases, from definition to deployment, ensuring a successful release into production. Actively engaged in Front End Chapter tasks to enhance code quality and implement team-cross features. Additionally, contributed to Quality Guild initiatives by defining and developing testing and continuous delivery tools. Pioneered the initial stages of the Global ING bank (Rubik) using LitElement and Redux. Furthermore, independently developed the client side of a website for agent creation using React and Redux."
+    }
+    
+  ],
+  "education": [
+    {
+      "institution": "Universidad Politecnica de Madrid",
+      "url": "https://www.uoc.edu/portal/es/index.html",
+      "area": "Telematics Engineering B. Eng",
+      "studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2017-01-01"
+    }
+  ],
+  "skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "TypeScript",
+    "Tailwind",
+    "Next.js",
+    "React",
+    "VueJS",
+    "Polymer",
+    "Java",
+    "Spring Boot",
+    "MySQL",
+    "PostgreSQL",
+    "GitHub",
+    "Git"
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "projects": [
+    {
+      "name": "astro-first-app",
+      "isActive": true,
+      "description": "Astro 4 playground for testing features and learning",
+      "highlights": [
+        "astro",
+        "netlify",
+        "blog",
+        "static content"
+      ],
+      "url": "https://tiny-creponne-4bb2f6.netlify.app/",
+      "github": "https://github.com/HectorPrietoMoreno/astro-first-app"
+    },
+    {
+      "name": "nextjs-first-app",
+      "isActive": true,
+      "description": "Next.js playground for testing features and learning",
+      "highlights": [
+        "nextjs",
+        "vercel",
+        "postgreSQL"
+      ],
+      "url": "https://nextjs-first-app-kappa.vercel.app/",
+      "github": "https://github.com/HectorPrietoMoreno/nextjs-first-app"
+    },
+    {
+      "name": "clothing-store-app",
+      "isActive": false,
+      "description": "React Application",
+      "highlights": [
+        "React",
+        "JavaScript",
+        "Hooks",
+        "Redux"
+      ],
+      "github": "https://github.com/HectorPrietoMoreno/clothing-store-app"
+    },
+    {
+      "name": "ReactJS-Apollo-POC",
+      "isActive": false,
+      "description": "GraphQL integration in a React App using Apollo",
+      "highlights": [
+        "React",
+        "JavaScript",
+        "Apollo",
+        "GraphQL"
+      ],
+      "github": "https://github.com/HectorPrietoMoreno/ReactJS-Apollo-POC"
+    },
+    {
+      "name": "polymer-timers",
+      "isActive": false,
+      "description": "Google Polymer app for testing feature and learning",
+      "highlights": [
+        "PolymerJS",
+        "JavaScript",
+        "Web Components"
+      ],
+      "github": "https://github.com/HectorPrietoMoreno/polymer-timers"
+    }
+  ]
+}
